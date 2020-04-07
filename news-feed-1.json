@@ -1,0 +1,23 @@
+{
+    "feeds": [
+        {
+            "id": 1,
+            "title": "Fighg Coronavirus",
+            "description": "",
+            "content": "",
+            "source": "",
+            "author": "",
+            "date": ""
+        },
+        {
+            "id": 2,
+            "title": "Fighg Coronavirus",
+            "description": "",
+            "content": "",
+            "source": "",
+            "author": "",
+            "date": ""
+        }
+    ],
+    "next_feed": "news-feed-2"
+}
