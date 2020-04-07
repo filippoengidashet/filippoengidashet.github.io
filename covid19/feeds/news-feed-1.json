@@ -1,0 +1,25 @@
+{
+    "feeds": [
+        {
+            "id": 1,
+            "title": "Yehidar Beshita",
+            "description": "About yehidar Beshita/ Spanish Flu",
+            "url": "/contents/content-1/1/content.txt",
+            "source": "Facebook",
+            "author": "Alula Pankhurst",
+            "date": "31/03/2020",
+            "language": "en"
+        },
+        {
+            "id": 2,
+            "title": "Opinion on COVID 19 data",
+            "description": "Opinion on COVID 19 data supplied by Ethiopian",
+            "url": "/contents/content-1/2/content.txt",
+            "source": "Facebook",
+            "author": "Dr Abebe Haregewoin",
+            "date": "04/04/2020",
+            "language": "am"
+        }
+    ],
+    "next_feed": "news-feed-2"
+}
