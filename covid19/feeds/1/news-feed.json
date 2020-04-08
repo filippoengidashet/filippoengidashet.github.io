@@ -19,6 +19,26 @@
             "author": "Dr Abebe Haregewoin",
             "date": "04/04/2020",
             "language": "am"
+        },
+        {
+            "id": 3,
+            "title": "Coronavirus Disease 2019 (COVID-19)",
+            "description": "Basic Understanding",
+            "url": "https://filippella.github.io/covid19/feeds/1/contents/3/content.html",
+            "source": "-",
+            "author": "Dr. Bekele Gessesse & Miss Mekdes Feleke",
+            "date": "07 April 2020",
+            "language": "en"
+        },
+        {
+            "id": 4,
+            "title": "የኮሮና ቫይረስ ግንዛቤ",
+            "description": "ስለ ኮሮና ቫይረስ በሸታ 2019 ግንዛቤ",
+            "url": "https://filippella.github.io/covid19/feeds/1/contents/4/content.html",
+            "source": "-",
+            "author": "ዶ/ር በቀለ ገሠሠና ወ/ሪት መቅደስ ፈለቀ",
+            "date": "መጋቢት 29 ቀን 2012 ዓ/ም",
+            "language": "am"
         }
     ],
     "has_next": false
