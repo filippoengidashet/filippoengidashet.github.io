@@ -39,6 +39,26 @@
             "author": "Dr. Bekele Gessesse",
             "date": "07 April 2020",
             "language": "en"
+        },
+        {
+            "id": 5,
+            "title": "የኮሮናቫይረስ ምልክቶች ምንድናቸው?",
+            "description": "የኮሮናቫይረስ ምልክቶች ምንድናቸው? መቼ ነው ሐኪም ቤት መሄድ ያለብኝ?",
+            "url": "https://filippella.github.io/covid19/feeds/1/contents/5/content.html",
+            "source": "BBC Amharic",
+            "author": "-",
+            "date": "9 April 2020",
+            "language": "am"
+        },
+        {
+            "id": 6,
+            "title": "የኮሮናቫይረስ ህመም ምልክቶችና ጥንቃቄው",
+            "description": "የኮሮናቫይረስ ህመም ምልክቶችና በበሽታው ላለመያዝ ማድረግ ያለብን ጥንቃቄ",
+            "url": "https://filippella.github.io/covid19/feeds/1/contents/6/content.html",
+            "source": "BBC Amharic",
+            "author": "-",
+            "date": "9 March 2020",
+            "language": "am"
         }
     ],
     "has_next": false
