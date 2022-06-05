@@ -1,0 +1,15 @@
+{
+    "feeds": [
+        {
+            "id": 1,
+            "title": "",
+            "description": "",
+            "url": "content.html",
+            "source": "",
+            "author": "",
+            "date": "",
+            "language": "en"
+        }
+    ],
+    "has_next": false
+}
